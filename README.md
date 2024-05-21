@@ -1,7 +1,12 @@
 # JavaScript Basics
 
 ## Introduction
-This repository contains examples and explanations of basic JavaScript concepts including printing statements, variables and data types, operators, conditional statements, alerts, prompts, loops, and template literals. This guide is designed to help beginners get started with JavaScript and understand the fundamental building blocks of the language.
+This repository is organized into two main folders, each focusing on different aspects of JavaScript.
+## folder1: JavaScript Basics
+This folder contains examples and explanations of fundamental JavaScript concepts. Topics covered include printing statements, variables and data types, operators, conditional statements, alerts and prompts, loops, and template literals. These resources are designed to help beginners get started with JavaScript and grasp the essential building blocks of the language.
+
+## folder2: Advanced JavaScript Demonstrations
+This folder showcases several advanced JavaScript programming concepts and functionalities. The primary focus is on generating usernames and demonstrating various string, object, and array manipulations, as well as different function types and higher-order array methods (`map`, `filter`, `reduce`). The examples in this folder aim to provide a deeper understanding of JavaScript and illustrate how to implement more complex functionalities in your code.
 
 ## Printing Statements
 In JavaScript, you can print statements to the console using the `console.log()` function. This is useful for debugging and understanding the flow of your code.
@@ -62,10 +67,6 @@ Loops are used to repeat a block of code multiple times. JavaScript supports sev
 Template literals allow for embedded expressions and multi-line strings using backticks (`` ` ``). They also support string interpolation, making it easier to create strings with embedded variables.
 
 # Username Generator and Various JavaScript Demonstrations
-
-This repository contains a JavaScript file that showcases several programming concepts and functionalities. The primary focus is on generating usernames and demonstrating various string, object, and array manipulations, as well as different function types and higher-order array methods.
-
-## Features
 
 ### Username Generation:
 - Prompts the user to input their name without spaces.
